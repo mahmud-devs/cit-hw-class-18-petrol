@@ -377,7 +377,7 @@ nav{
 .read_wrapper{
     display: flex;
     flex-wrap: wrap;
-    gap: 60px;
+    gap: 50px;
 }
 .read_content{
     height:400px ;
